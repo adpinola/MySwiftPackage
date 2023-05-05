@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name         = "MySwiftPackage"
-spec.version      = "0.0.1"
+spec.version      = "0.0.2"
 spec.summary      = "Dummy package"
 spec.description  = <<-DESC
 This package is to demonstrate how to publish you own pacakge in CocoaPods
