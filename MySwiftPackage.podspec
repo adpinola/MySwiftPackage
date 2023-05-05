@@ -5,6 +5,7 @@ spec.summary      = "Dummy package"
 spec.description  = <<-DESC
 This package is to demonstrate how to publish you own pacakge in CocoaPods
 DESC
+spec.homepage     = "https://github.com/adpinola/MySwiftPackage"
 spec.license      = { :type => "MIT", :file => "LICENSE" }
 spec.author             = { "author" => "alejandro.pinola@southworks.com" }
 spec.platforms = { :ios => "13.0" }
