@@ -8,7 +8,7 @@ DESC
 spec.homepage     = "https://github.com/adpinola/MySwiftPackage"
 spec.license      = { :type => "MIT", :file => "LICENSE" }
 spec.author             = { "author" => "alejandro.pinola@southworks.com" }
-spec.platforms = { :ios => "13.0" }
+spec.platforms = { :ios => "11.0" }
 spec.swift_version = "5.1"
 spec.source       = { :git => "https://github.com/adpinola/MySwiftPackage.git", :tag => "#{spec.version}" }
 spec.source_files  = "Sources/MySwiftPackage/**/*.swift"
