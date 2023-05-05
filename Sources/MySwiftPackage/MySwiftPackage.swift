@@ -3,4 +3,8 @@ public struct MySwiftPackage {
 
     public init() {
     }
+    
+    public func getWelcomeMessage() -> String {
+        return text
+    }
 }
